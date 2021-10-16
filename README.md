@@ -46,7 +46,7 @@
  ---
  
  <a href="https://github.com/P-H-Phuc">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=P-H-Phuc&title_color=bdddff&text_color=1cd6ff&icon_color=ef8539&bg_color=031a1f" width="250px" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=P-H-Phuc&title_color=bdddff&text_color=1cd6ff&icon_color=ef8539&bg_color=031a1f" width="296px" />
 </a>
 
  <a href="https://github.com/P-H-Phuc/P-H-Phuc">
