@@ -1,4 +1,4 @@
-## Hi, I'm Phuc <img src="hamster-cute.gif" width="60px">
+## Hi, I'm Phuc <img src="hello.gif" width="50px">
 <p><em>I am a 4th Year undergraduate <br><a href="http://https://www.uel.edu.vn/">University of Economics and Law </a> | Department of Economic Mathematics <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></em></p>
 
 <br>
