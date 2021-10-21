@@ -21,7 +21,7 @@
 
 ---
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="350" height="230" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="200" />
   
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=blue&labelColor=9c9c9c&color=528B8B)
 ![](https://img.shields.io/badge/Code-Python_language-informational?style=flat&logo=python&logoColor=ffdd54&labelColor=9c9c9c&color=528B8B)
