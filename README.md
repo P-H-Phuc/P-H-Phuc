@@ -15,7 +15,7 @@
  
  <br>
  
- > *I'm currently looking for a entry level data science position. I have a passion for data lies with I love writting nicely architectured, tidy and clean code, working with the numbers on finding valuable insight and storytelling on visualization data.*
+ > *I'm currently looking for a entry level data science position. I have a passion for data lies with I love writing nicely architectured, tidy and clean code, working with the numbers on finding valuable insight and storytelling on visualization data.*
  
 ### 🔧 Education, Technologies & Tools
 
