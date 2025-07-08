@@ -9,7 +9,6 @@
 [![Gmail](https://img.shields.io/badge/-Phan%20Hong%20Phuc-blue?style=social&logo=Gmail&link=)](mailto:phucph18413@st.uel.edu.vn)
 [![FaceBook](https://img.shields.io/badge/-Phan%20Hong%20Phuc-blue?style=social&logo=Facebook&link=https://www.facebook.com/fb.phucph/)](https://www.facebook.com/fb.phucph)
 [![Linkedin Badge](https://img.shields.io/badge/-Phan%20Hong%20Phuc-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/phuc-ph/)](https://www.linkedin.com/in/phuc-ph)
-[![Twitter: PhucPH](https://img.shields.io/twitter/follow/PhcPhanHng1?style=social)](https://twitter.com/PhcPhanHng1)
  
  </div>
  
